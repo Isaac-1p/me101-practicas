@@ -1,0 +1,3 @@
+Nombre: Isaac Nestor Llerena Paliza
+Fecha: 11 de septiembre de 2026
+Hoy aprendi a instalar  y configurar anaconda, Rstudio y Git, y a hacer mi primer commit y push a GitHub
